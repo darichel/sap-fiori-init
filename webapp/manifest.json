@@ -68,6 +68,10 @@
         "settings": {
           "bundleName": "invoices.i18n.i18n"
         }
+      },
+      "":{
+        "dataSource": "mainService",
+        "preload": true
       }
     },
     "resources": {
